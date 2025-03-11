@@ -10,7 +10,8 @@ type project = {
     description: string[],
     image: string,
     link: string,
-    technologies: string[]
+    technologies: string[],
+    alt: string
 }
 
 export type { experience, project }

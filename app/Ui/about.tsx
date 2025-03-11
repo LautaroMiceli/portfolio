@@ -1,35 +1,18 @@
+
+
 export default function About() {
     return (
-        <section className="pt-24 flex flex-col gap-4 text-white/80" id="about">
+        <section className="pt-24 flex flex-col gap-4 text-white/80 max-sm:pt-3" id="about">
             <p>
-                Soy un <strong className="text-white">desarrollador Full Stack</strong> graduado en la <strong className="text-white">Universidad Tecnológica Nacional</strong> y actualmente trabajo como freelance generando experiencia en el desarrollo de aplicaciones web. Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para ayudar a otros a alcanzar sus objetivos.
-            </p>
-            <p>
-                👨‍💻 Stack tecnológico:
+                Soy un apasionado <strong className="text-white">desarrollador Full Stack</strong> en constante crecimiento y desarrollo preparado práctica, técnica y teóricamente en la vanguardia tecnológica tanto para desarrollar una aplicación web en solitario como para aportar valor a proyectos colaborativos.
             </p>
 
             <p>
-                🏗️ Front-End: HTML | CSS | Javascript | React | Typescript | TailwindCSS
+                Actualmente <strong className="text-white">trabajo para la Universidad Tecnológica Nacional como tutor universitario</strong>, donde me dedico a brindar apoyo académico a los estudiantes, ayudando a comprender mejor los contenidos de sus cursos, resolver sus dudas, proponer aprendizajes nuevos y corregir sus tareas.
             </p>
 
             <p>
-                🗃️ Back-End: Node.js | Express | MongoDB | MySQL
-            </p>
-
-            <p>
-                🔧 Técnico electromecánico
-            </p>
-
-            <p>
-                Soy un profesional comprometido con la <strong className="text-white">calidad</strong> y la <strong className="text-white">excelencia</strong> en todo lo que hago. Disfruto trabajando en equipo y tengo habilidades de comunicación efectiva y colaboración.
-            </p>
-
-            <p>
-                Estoy buscando oportunidades para formar parte de un equipo de IT en una empresa donde pueda desarrollarme profesionalmente y contribuir con mis habilidades.
-            </p>
-
-            <p>
-                Además de mi entusiasmo por la programación, tengo una <strong className="text-white">gran pasión por la pedagogía</strong>. Disfruto enseñar y encuentro satisfacción en hacer que quienes aprenden conmigo comprendan conceptos complejos de manera simple y accesible.
+                También me desempeño como encargado de abordo en Boarding Agent Group, trabajo que me permite mejorar constantemente <strong className="text-white">mis habilidades en el inglés</strong> al hablar constantemente a bordo con tripulación angloparlante y <strong className="text-white">pulir constantemente mis habilidades blandas</strong>. 
             </p>
 
         </section>

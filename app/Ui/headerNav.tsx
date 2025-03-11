@@ -1,13 +1,8 @@
-"use client"
-
-import { useEffect, useRef, useState } from "react"
 import styles from "../styles/LineText.module.css"
 
 export default function HeaderNav() {
-
-
     return (
-        <nav className="fixed top-72">
+        <nav className="fixed top-72 max-sm:relative max-sm:top-0 max-sm:hidden">
             <ol className="flex flex-col relative ">
                 <li className={styles.lineText}>
                     <a href="#about" className="py-2">

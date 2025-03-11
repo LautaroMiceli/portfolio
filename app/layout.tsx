@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html className={inter.className} lang="es">
       <body
-        className="flex gap-2 px-14 h-full"
+        className="flex gap-2 px-14 h-full max-sm:flex-col max-sm:p-12"
       >
         {children}
       </body>

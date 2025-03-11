@@ -7,8 +7,8 @@ import HeaderNav from "./headerNav";
 
 export default function Header() {
     return (
-        <header className="pt-24 w-[50%] h-96 flex flex-col gap-24 justify-between relative">
-            <section className="flex flex-col gap-4 fixed">
+        <header className="@container pt-24 w-[50%] h-96 flex flex-col gap-24 justify-between relative max-sm:h-full max-sm:w-full max-sm:gap-10">
+            <section className="flex flex-col gap-4 fixed max-sm:relative ">
                 <h1 className="text-5xl font-bold opacity-80">
                     Lautaro Miceli
                 </h1>
@@ -25,7 +25,7 @@ export default function Header() {
                 </span>
             </section>
             <HeaderNav />
-            <nav className="fixed top-[460px]">
+            <nav className="fixed top-[460px] max-sm:relative max-sm:top-0">
                 <ol className="flex gap-4 p-2 align-center justify-center">
                     <GithubSVG />
                     <LinkedinSVG />
