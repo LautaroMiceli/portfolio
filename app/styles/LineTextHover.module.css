@@ -1,0 +1,17 @@
+.lineText {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    cursor: pointer;
+    color: white;
+}
+
+.lineText::before {
+    content: "";
+    display: inline-block;
+    width: 65px;
+    height: 1px;
+    background-color: white;
+    margin-right: 10px;
+    transition: width 0.2s ease;
+}
