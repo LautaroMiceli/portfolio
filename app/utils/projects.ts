@@ -20,13 +20,18 @@ const projectsData: project[] = [
         link: "https://whatsapp-clon-six.vercel.app/",
         technologies: ["React", "Javascript", "HTML", "CSS"],
         alt: "Proyecto de Whatsapp clon"
-    }/*  ,
+    }
+     ,
     {
-        title: "Whatsapp clon",
-        description: "Descripción del proyecto 2",
-        image: "https://via.placeholder.com/150",
-        link: "https://example.com/project2",
-    } */
+        title: "Coração de Geriba",
+        description: [
+            "Trabajo solicitado por clienta "
+        ],
+        image: "/corazongeriba.png",
+        link: "https://corazongeriba.vercel.app/",
+        technologies: ["React", "Javascript", "HTML", "CSS"],
+        alt: "Página web de Corazón de Geriba"
+    }
 ]
 
 export default projectsData
