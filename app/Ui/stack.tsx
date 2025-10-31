@@ -10,7 +10,7 @@ export default function Stack() {
     return (
         <section className="flex flex-col gap-4 text-center text-white/80" >
             <h2 className="text-3xl">Mi stack tecnológico</h2>
-            <h3 className="text-center">Lenguajes de programación</h3>
+            <h3 className="text-center">Lenguajes</h3>
             <ol className="flex gap-2 justify-center">
                 <li><HtmlSVG className="hover:scale-110 hover:duration-100" /></li>
                 <li><CssSVG className="hover:scale-110 hover:duration-100" /></li>
