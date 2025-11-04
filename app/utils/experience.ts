@@ -5,10 +5,9 @@ const experienceData: experience[] = [
     {
         employmentPeriod: "2025 - Presente",
         company: "Universidad Tecnológica Nacional",
-        position: "Tutor universitario",
+        position: "Docente de programación",
         description: [
-            "Brindo apoyo académico a los estudiantes, ayudándolos a comprender mejor los contenidos de sus cursos, desarrollar habilidades de estudio y mejorar su desempeño académico. Mis responsabilidades incluyen la explicación de conceptos clave, la resolución de dudas, la orientación al hacer tareas y la redacción y corrección de trabajos prácticos.",
-            "Ocasionalmente reemplazo al profesor titular en caso de que éste no pueda dar una clase.",
+            "Doy clases para el centro de e-learning de la UTN Buenos Aires. Mis responsabilidades incluyen la explicación de conceptos clave, la resolución de dudas, la orientación al hacer tareas y la redacción y corrección de trabajos prácticos.",
             "Mi principal objetivo es garantizar que aprender sea satisfactorio, favoreciendo la retención de los alumnos a sus cursos al ofrecerles un ambiente donde se sientan apoyados y, en consecuencia, puedan entregar su máximo potencial."
         ]
     },
