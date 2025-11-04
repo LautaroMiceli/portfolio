@@ -4,11 +4,11 @@ export default function About() {
     return (
         <section className="pt-24 flex flex-col gap-4 text-white/80 max-sm:pt-3" id="about">
             <p>
-                Soy un apasionado <strong className="text-white">desarrollador Full Stack</strong> en constante crecimiento y desarrollo preparado práctica, técnica y teóricamente en la vanguardia tecnológica tanto para desarrollar una aplicación web en solitario como para aportar valor a proyectos colaborativos.
+                Soy un apasionado <strong className="text-white">desarrollador Full Stack</strong> en constante crecimiento y desarrollo preparado práctica, técnica y teóricamente en tecnologías tanto para desarrollar una aplicación web en solitario como para aportar valor a proyectos colaborativos. Me desempeño como <strong>desarrollador Freelance</strong>.
             </p>
 
             <p>
-                Actualmente <strong className="text-white">trabajo para la Universidad Tecnológica Nacional como tutor universitario</strong>, donde me dedico a brindar apoyo académico a los estudiantes, ayudando a comprender mejor los contenidos de sus cursos, resolver sus dudas, proponer aprendizajes nuevos y corregir sus tareas.
+                Actualmente <strong className="text-white">trabajo para la Universidad Tecnológica Nacional como docente</strong>, donde doy clases de programación Full Stack asegurándome de que mis alumnos estén a la vanguardia tecnológica.
             </p>
 
             <p>
